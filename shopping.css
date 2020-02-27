@@ -1,0 +1,81 @@
+.two{
+    
+    margin: 40px 40px;
+
+}
+.titre1{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(15, 12, 41);
+
+}
+.thefirst{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.delete{
+    margin: 150px 0px;
+    position: relative;
+    left: 60px;
+}
+.discription1{
+    margin: 150px 0px;
+}
+.plusmoin{
+    margin: 150px 0px;
+}
+.delete2{
+    margin: 150px 0px;
+    position: relative;
+    left: 60px;
+}
+.plusmoin2{
+    margin: 150px 0px;
+}
+.discription2{
+    margin: 150px 0px;
+}
+
+.delete3{
+    margin: 150px 0px;
+    position: relative;
+    left: 60px;
+}
+.discription3{
+    margin: 150px 0px;
+}
+.plusmoin3{
+    margin: 150px 0px;
+}
+
+.pay{
+   justify-content: space-between;
+   display: flex;
+}
+.pub{
+    background-color: rgb(79, 170, 166);
+    border-radius: 10px;
+    width: 35%;
+    justify-content: flex-end;
+}
+.d-block{
+    height: 500px;
+}
+.TotalQ{
+    color:white ;
+}
+.thesecond{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.thethird{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    border-radius: 10px;
+}
